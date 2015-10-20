@@ -13,7 +13,7 @@
 *
 *
 *Output:
-*	Contents of arrays, number of rows and columns, and exceptions displayed to console
+*	Minesweeper board and menu displayed to console window
 *
 ***********************************************************************************************/
 #include "Minesweeper.h"
